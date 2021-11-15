@@ -2,21 +2,21 @@
 My name is Mashego Sililo, I am a frontend developer based in South Africa. 
 
 <h3>Technologies & Tools</h3>
-🌼 JavaScript
+• JavaScript
 <br>
-🌼 Python
+• Python
 <br>
-🌼 PHP
+• PHP
 <br>
-🌼 React
+• React
 <br>
-🌼 CSS/ SASS
+• CSS/ SASS
 <br>
-🌼 HTML
+• HTML
 
 <h3>Blogs & Writing </h3>
-I recently started writing a blog about my favourite topic,  API's called  "That's so fetch()". You can read my articles on <a href="www.medium.com">Medium</>.
-
+I recently started writing a blog about my favourite topic, API's, called "That's so fetch()". You can read my articles on <a href="https://medium.com/@thatissofetch!">Medium</>.
+.
 
 <!--
 **MashegoSililo/MashegoSililo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
