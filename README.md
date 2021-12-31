@@ -8,7 +8,7 @@ My name is Mashego Sililo, I am a frontend developer based in South Africa.
 <br>
 • PHP
 <br>
-• React
+• React & React Native
 <br>
 • CSS/ SASS
 <br>
