@@ -14,9 +14,11 @@ My name is Mashego Sililo, I am a frontend developer based in South Africa.
 <br>
 • HTML
 
+<a href='https://mashegosililo.netlify.app/'>check out my portfolio! </a>
+
 <h3>Blogs & Writing </h3>
-I recently started writing a blog about my favourite topic, API's, called "That's so fetch()". You can read my articles on <a href="https://medium.com/@thatissofetch!">Medium</>.
-.
+I recently started writing a blog about my favourite topic, API's, called "That's so fetch()". You can read my articles on <a href="https://medium.com/@thatissofetch!">Medium<a/> .
+
 
 <!--
 **MashegoSililo/MashegoSililo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
