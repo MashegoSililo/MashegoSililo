@@ -13,7 +13,9 @@ My name is Mashego Sililo, I am a frontend developer based in South Africa.
 • CSS/ SASS
 <br>
 • HTML
-<br>
+<br></br>
+<br></br>
+
 <a href='https://mashegosililo.netlify.app/'>Check out my portfolio! </a>
 
 <h3>Blogs & Writing </h3>
