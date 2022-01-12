@@ -13,8 +13,8 @@ My name is Mashego Sililo, I am a frontend developer based in South Africa.
 • CSS/ SASS
 <br>
 • HTML
-
-<a href='https://mashegosililo.netlify.app/'>check out my portfolio! </a>
+<br>
+<a href='https://mashegosililo.netlify.app/'>Check out my portfolio! </a>
 
 <h3>Blogs & Writing </h3>
 I recently started writing a blog about my favourite topic, API's, called "That's so fetch()". You can read my articles on <a href="https://medium.com/@thatissofetch!">Medium<a/> .
