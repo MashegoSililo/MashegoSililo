@@ -10,10 +10,9 @@ My name is Mashego Sililo, I am a frontend developer based in South Africa.
 <br>
 • React & React Native
 <br>
-• CSS/ SASS
+• CSS,SCSS & bootstrap
 <br>
 • HTML
-<br></br>
 <br></br>
 
 <a href='https://mashegosililo.netlify.app/'>Check out my portfolio! </a>
